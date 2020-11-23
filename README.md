@@ -19,4 +19,6 @@ logo em seguinda rode php artisan key:generate (caso precise)
 configure o seu .env para conectar com sua url e seu banco
 rode as migrations e o seeder
 
+PS: Deixe o camiho da sua api com barra no final
+
 Pronto, só testar
