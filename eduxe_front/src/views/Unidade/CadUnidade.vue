@@ -100,7 +100,7 @@
             <div class="col-md-6">
               <div class="form-group">
                 <label for="inputSelectEmpresa"
-                  >Selecione a empresa de autação principal</label
+                  >Selecione a empresa de atuação principal</label
                 >
                 <select
                   class="form-control"
@@ -120,7 +120,7 @@
             <div class="col-md-6">
               <div class="form-group">
                 <label for="inputSelectEmpresa"
-                  >Selecione a empresa de autação principal</label
+                  >Selecione a empresa de atuação secundaria</label
                 >
                 <select
                   class="form-control"
