@@ -1,4 +1,4 @@
-# eduxe_teste
+# Cadastro de empresas
 Teste realizado para a Empresa Eduxe
 
 Tecnologia para emular o servidor local utilizada : Docker
