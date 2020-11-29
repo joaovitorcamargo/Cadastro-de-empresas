@@ -1,5 +1,4 @@
 # Cadastro de empresas
-Teste realizado para a Empresa Eduxe
 
 Tecnologia para emular o servidor local utilizada : Docker
 Tecnologia para desenvolvimento da api : Laravel 8x
